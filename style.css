@@ -1,0 +1,33 @@
+.inline-block{
+    display: inline-block; vertical-align: top;color: blue;
+    
+}
+
+div.logo{
+    width: 23%;
+    padding: 1%;
+    color: red;
+}
+
+nav{
+
+    width: 73%;
+    padding: 1%;
+}
+
+.ul{
+    width: 50%;
+    margin-left: auto;
+}
+
+footer{
+
+    background: color 373738px;;
+    padding: auto;
+    
+}
+
+*{
+
+    background-color: lightcyan;
+}
